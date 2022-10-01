@@ -1,0 +1,2491 @@
+{
+  "МББ-201-О-01": {
+    "ПН": [
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Алгебра",
+        "cabinet": "4-309",
+        "teacher": "Болдовская Т.Е.",
+        "time": {
+          "start": {
+            "hours": "08",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Дискретная математика",
+        "cabinet": "4-308",
+        "teacher": "Богаченко Н.Ф.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Алгебра",
+        "cabinet": "4-112",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "ВТ": [
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Языки программирования",
+        "cabinet": "4-308",
+        "teacher": "Стародубцев И.А.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Информатика",
+        "cabinet": "4-112",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "3",
+            "15"
+          ]
+        ],
+        "even_odd": "н/н ",
+        "lesson": "Аналитическая геометрия",
+        "cabinet": "4-308",
+        "teacher": "Горева Е.Г.",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "16"
+          ]
+        ],
+        "even_odd": "ч/н ",
+        "lesson": "Аналитическая геометрия",
+        "cabinet": "4-308",
+        "teacher": "Горева Е.Г.",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "СР": [
+      {
+        "type": "Лаб.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Иностранный язык",
+        "cabinet": "4-206",
+        "teacher": "Бутакова Д.А.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Основы информационной безопасности",
+        "cabinet": "4-308",
+        "teacher": "Горев А.И.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Прикладная физическая культура и спорт",
+        "cabinet": "",
+        "teacher": "",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "ЧТ": [],
+    "ПТ": [
+      {
+        "type": "",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "9"
+          ],
+          [
+            "11",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Математический анализ",
+        "cabinet": "4-112",
+        "teacher": "Лаптев А.А.",
+        "time": {
+          "start": {
+            "hours": "8",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лаб.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "9"
+          ],
+          [
+            "11",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Иностранный язык",
+        "cabinet": "4-206",
+        "teacher": "Бутакова Д.А.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лаб.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "9"
+          ],
+          [
+            "11",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Языки программирования",
+        "cabinet": "4-317",
+        "teacher": "Костеннов Т.В.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лаб.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "9"
+          ],
+          [
+            "11",
+            "18"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Основы информационной безопасности",
+        "cabinet": "4-301",
+        "teacher": "Горев А.И.",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "СБ": [
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "16"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Дискретная математика",
+        "cabinet": "4-101",
+        "teacher": "Богаченко Н.Ф.",
+        "time": {
+          "start": {
+            "hours": "8",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "1"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Аналитическая геометрия",
+        "cabinet": "4-112",
+        "teacher": "Горева Е.Г.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лаб.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "16"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Информатика",
+        "cabinet": "4-305",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "16"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Прикладная физическая культура и спорт",
+        "cabinet": "",
+        "teacher": "",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ]
+  },
+  "МБС-201-О-01": {
+    "ПН": [
+      {
+        "type": "Лаб.",
+        "subgroup": "1",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Информатика",
+        "cabinet": "4-301",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "08",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Дискретная математика",
+        "cabinet": "4-308",
+        "teacher": "Богаченко Н.Ф.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Алгебра",
+        "cabinet": "4-112",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лаб.",
+        "subgroup": "2",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Информатика",
+        "cabinet": "4-305",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "ВТ": [
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Математический анализ",
+        "cabinet": "4-303",
+        "teacher": "Лаптев А.А.",
+        "time": {
+          "start": {
+            "hours": "08",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Языки программирования",
+        "cabinet": "4-308",
+        "teacher": "Стародубцев И.А.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Информатика",
+        "cabinet": "4-112",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "16"
+          ]
+        ],
+        "even_odd": "ч/н ",
+        "lesson": "Аналитическая геометрия",
+        "cabinet": "4-308",
+        "teacher": "Горева Е.Г.",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "СР": [
+      {
+        "type": "Лаб.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Иностранный язык",
+        "cabinet": "4-206",
+        "teacher": "Бутакова Д.А.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Основы информационной безопасности",
+        "cabinet": "4-308",
+        "teacher": "Горев А.И.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Прикладная физическая культура и спорт",
+        "cabinet": "",
+        "teacher": "",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "ЧТ": [
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Алгебра",
+        "cabinet": "4-305",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "8",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Аналитическая геометрия",
+        "cabinet": "4-101",
+        "teacher": "Горева Е.Г.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "ПТ": [
+      {
+        "type": "",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "9"
+          ],
+          [
+            "11",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Математический анализ",
+        "cabinet": "4-112",
+        "teacher": "Лаптев А.А.",
+        "time": {
+          "start": {
+            "hours": "8",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лаб.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "9"
+          ],
+          [
+            "11",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Иностранный язык",
+        "cabinet": "4-206",
+        "teacher": "Бутакова Д.А.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "СБ": [
+      {
+        "type": "Лаб.",
+        "subgroup": "1",
+        "week": [
+          [
+            "1",
+            "16"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Языки программирования",
+        "cabinet": "4-301",
+        "teacher": "Стародубцев И.А.",
+        "time": {
+          "start": {
+            "hours": "8",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "16"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Дискретная математика",
+        "cabinet": "4-101",
+        "teacher": "Богаченко Н.Ф.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лаб.",
+        "subgroup": "1",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Основы информационной безопасности",
+        "cabinet": "4-317",
+        "teacher": "Горев А.И.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "16"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Прикладная физическая культура и спорт",
+        "cabinet": "",
+        "teacher": "",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ]
+  },
+  "МБС-202-О-01": {
+    "ПН": [
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Дискретная математика",
+        "cabinet": "4-308",
+        "teacher": "Богаченко Н.Ф.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Алгебра",
+        "cabinet": "4-112",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Математический анализ",
+        "cabinet": "4-303",
+        "teacher": "Лаптев А.А.",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лаб.",
+        "subgroup": "2",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Информатика",
+        "cabinet": "4-305",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "16",
+            "minutes": "15"
+          },
+          "end": {
+            "hours": "17",
+            "minutes": "50"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "ВТ": [
+      {
+        "type": "Лаб.",
+        "subgroup": "1",
+        "week": [
+          [
+            "2",
+            "16"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Языки программирования",
+        "cabinet": "4-317",
+        "teacher": "Стародубцев И.А.",
+        "time": {
+          "start": {
+            "hours": "08",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Языки программирования",
+        "cabinet": "4-308",
+        "teacher": "Стародубцев И.А.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Информатика",
+        "cabinet": "4-112",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "16"
+          ]
+        ],
+        "even_odd": "ч/н ",
+        "lesson": "Аналитическая геометрия",
+        "cabinet": "4-308",
+        "teacher": "Горева Е.Г.",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "СР": [
+      {
+        "type": "Лаб.",
+        "subgroup": "2",
+        "week": [
+          [
+            "3",
+            "18"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Основы информационной безопасности",
+        "cabinet": "4-301",
+        "teacher": "Горев А.И.",
+        "time": {
+          "start": {
+            "hours": "8",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лаб.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Иностранный язык",
+        "cabinet": "4-206",
+        "teacher": "Бутакова Д.А.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Основы информационной безопасности",
+        "cabinet": "4-308",
+        "teacher": "Горев А.И.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Прикладная физическая культура и спорт",
+        "cabinet": "",
+        "teacher": "",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "ЧТ": [
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Аналитическая геометрия",
+        "cabinet": "4-101",
+        "teacher": "Горева Е.Г.",
+        "time": {
+          "start": {
+            "hours": "8",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Алгебра",
+        "cabinet": "4-305",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лаб.",
+        "subgroup": "1",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Информатика",
+        "cabinet": "4-305",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "ПТ": [
+      {
+        "type": "",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "9"
+          ],
+          [
+            "11",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Математический анализ",
+        "cabinet": "4-112",
+        "teacher": "Лаптев А.А.",
+        "time": {
+          "start": {
+            "hours": "8",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лаб.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "9"
+          ],
+          [
+            "11",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Иностранный язык",
+        "cabinet": "4-206",
+        "teacher": "Бутакова Д.А.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лаб.",
+        "subgroup": "1",
+        "week": [
+          [
+            "1",
+            "1"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Языки программирования",
+        "cabinet": "4-301",
+        "teacher": "Стародубцев И.А.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "СБ": [
+      {
+        "type": "Лаб.",
+        "subgroup": "1",
+        "week": [
+          [
+            "1",
+            "16"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Основы информационной безопасности",
+        "cabinet": "4-317",
+        "teacher": "Горев А.И.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "16"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Дискретная математика",
+        "cabinet": "4-101",
+        "teacher": "Богаченко Н.Ф.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "16"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Прикладная физическая культура и спорт",
+        "cabinet": "",
+        "teacher": "",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ]
+  },
+  "МИБ-201-О-01": {
+    "ПН": [
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "3",
+            "17"
+          ]
+        ],
+        "even_odd": "н/н ",
+        "lesson": "Аналитическая геометрия",
+        "cabinet": "4-308",
+        "teacher": "Горева Е.Г.",
+        "time": {
+          "start": {
+            "hours": "08",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "16"
+          ]
+        ],
+        "even_odd": "ч/н ",
+        "lesson": "Аналитическая геометрия",
+        "cabinet": "4-308",
+        "teacher": "Горева Е.Г.",
+        "time": {
+          "start": {
+            "hours": "08",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Математический анализ",
+        "cabinet": "4-301",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "3",
+            "17"
+          ]
+        ],
+        "even_odd": "н/н ",
+        "lesson": "Алгебра",
+        "cabinet": "4-305",
+        "teacher": "Болдовская Т.Е.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "4",
+            "6"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Деловая коммуникация",
+        "cabinet": "4-308",
+        "teacher": "Золтнер О.В.",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "ВТ": [
+      {
+        "type": "Лаб.",
+        "subgroup": "1",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "н/н ",
+        "lesson": "Информатика",
+        "cabinet": "4-305",
+        "teacher": "Бесценный И.П.",
+        "time": {
+          "start": {
+            "hours": "08",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "3",
+            "17"
+          ]
+        ],
+        "even_odd": "н/н ",
+        "lesson": "Деловая коммуникация",
+        "cabinet": "4-112",
+        "teacher": "Золтнер О.В.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "СР": [
+      {
+        "type": "Лаб.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Иностранный язык",
+        "cabinet": "4-206",
+        "teacher": "Бутакова Д.А.",
+        "time": {
+          "start": {
+            "hours": "8",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Информатика",
+        "cabinet": "4-112",
+        "teacher": "Бесценный И.П.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Алгебра",
+        "cabinet": "4-309",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Прикладная физическая культура и спорт",
+        "cabinet": "",
+        "teacher": "",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "ЧТ": [],
+    "ПТ": [
+      {
+        "type": "Лаб.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "9"
+          ],
+          [
+            "11",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Иностранный язык",
+        "cabinet": "4-206",
+        "teacher": "Бутакова Д.А.",
+        "time": {
+          "start": {
+            "hours": "8",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "9"
+          ],
+          [
+            "11",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Математический анализ",
+        "cabinet": "4-308",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лаб.",
+        "subgroup": "2",
+        "week": [
+          [
+            "1",
+            "9"
+          ],
+          [
+            "11",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Основы программирования",
+        "cabinet": "4-310",
+        "teacher": "Лейхтер С.В.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "СБ": [
+      {
+        "type": "Лаб.",
+        "subgroup": "1",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Основы программирования",
+        "cabinet": "4-310",
+        "teacher": "Лейхтер С.В.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Основы программирования",
+        "cabinet": "4-112",
+        "teacher": "Городецкий А.Д.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "16"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Прикладная физическая культура и спорт",
+        "cabinet": "",
+        "teacher": "",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ]
+  },
+  "МПБ-201-О-01": {
+    "ПН": [
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "16"
+          ]
+        ],
+        "even_odd": "ч/н ",
+        "lesson": "Аналитическая геометрия",
+        "cabinet": "4-308",
+        "teacher": "Горева Е.Г.",
+        "time": {
+          "start": {
+            "hours": "08",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "16"
+          ]
+        ],
+        "even_odd": "ч/н ",
+        "lesson": "Аналитическая геометрия",
+        "cabinet": "4-315",
+        "teacher": "Горева Е.Г.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "3",
+            "17"
+          ]
+        ],
+        "even_odd": "н/н ",
+        "lesson": "Русский язык и культура речи",
+        "cabinet": "4-303",
+        "teacher": "Золтнер О.В.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "4",
+            "6"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Деловая коммуникация",
+        "cabinet": "4-308",
+        "teacher": "Золтнер О.В.",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "3",
+            "3"
+          ],
+          [
+            "7",
+            "17"
+          ]
+        ],
+        "even_odd": "н/н ",
+        "lesson": "Алгебра",
+        "cabinet": "4-206",
+        "teacher": "Болдовская Т.Е.",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "5",
+            "5"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Алгебра",
+        "cabinet": "4-206",
+        "teacher": "Болдовская Т.Е.",
+        "time": {
+          "start": {
+            "hours": "16",
+            "minutes": "15"
+          },
+          "end": {
+            "hours": "17",
+            "minutes": "50"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "ВТ": [
+      {
+        "type": "Лаб.",
+        "subgroup": "1",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Основы программирования",
+        "cabinet": "4-301",
+        "teacher": "Лейхтер С.В.",
+        "time": {
+          "start": {
+            "hours": "08",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Математический анализ",
+        "cabinet": "4-101",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лаб.",
+        "subgroup": "2",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Основы программирования",
+        "cabinet": "4-301",
+        "teacher": "Лейхтер С.В.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "СР": [
+      {
+        "type": "Лаб.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Иностранный язык",
+        "cabinet": "4-206",
+        "teacher": "Бутакова Д.А.",
+        "time": {
+          "start": {
+            "hours": "8",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Информатика",
+        "cabinet": "4-112",
+        "teacher": "Бесценный И.П.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Алгебра",
+        "cabinet": "4-309",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Прикладная физическая культура и спорт",
+        "cabinet": "",
+        "teacher": "",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "ЧТ": [],
+    "ПТ": [
+      {
+        "type": "Лаб.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "9"
+          ],
+          [
+            "11",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Иностранный язык",
+        "cabinet": "4-206",
+        "teacher": "Бутакова Д.А.",
+        "time": {
+          "start": {
+            "hours": "8",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "10",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "9"
+          ],
+          [
+            "11",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Математический анализ",
+        "cabinet": "4-308",
+        "teacher": "Кабанов А.Н.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лаб.",
+        "subgroup": "1",
+        "week": [
+          [
+            "1",
+            "15"
+          ],
+          [
+            "1",
+            "1"
+          ],
+          [
+            "2",
+            "8"
+          ],
+          [
+            "12",
+            "16"
+          ],
+          [
+            "17",
+            "17"
+          ]
+        ],
+        "even_odd": "н/н ",
+        "lesson": "",
+        "cabinet": "",
+        "teacher": "Бесценный И.П.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ],
+    "СБ": [
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "16"
+          ]
+        ],
+        "even_odd": "ч/н ",
+        "lesson": "Аналитическая геометрия",
+        "cabinet": "4-305",
+        "teacher": "Горева Е.Г.",
+        "time": {
+          "start": {
+            "hours": "10",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "12",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Лек.",
+        "subgroup": "",
+        "week": [
+          [
+            "2",
+            "17"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Основы программирования",
+        "cabinet": "4-112",
+        "teacher": "Городецкий А.Д.",
+        "time": {
+          "start": {
+            "hours": "12",
+            "minutes": "45"
+          },
+          "end": {
+            "hours": "14",
+            "minutes": "20"
+          }
+        },
+        "chosen_lesson": false
+      },
+      {
+        "type": "Прак.",
+        "subgroup": "",
+        "week": [
+          [
+            "1",
+            "16"
+          ]
+        ],
+        "even_odd": "",
+        "lesson": "Прикладная физическая культура и спорт",
+        "cabinet": "",
+        "teacher": "",
+        "time": {
+          "start": {
+            "hours": "14",
+            "minutes": "30"
+          },
+          "end": {
+            "hours": "16",
+            "minutes": "05"
+          }
+        },
+        "chosen_lesson": false
+      }
+    ]
+  }
+}
